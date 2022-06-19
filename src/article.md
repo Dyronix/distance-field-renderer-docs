@@ -171,7 +171,7 @@ All relevant data of our volumetric renderer can be stored within a G-Buffer, th
 
 <br>
 <p align="center">
-  <img width="640" height="480" src="./assets/g-buffer.PNG">
+  <img width="640" height="480" src="./assets/g-buffer.png">
 </p>
 <p align="center">
     <i>
