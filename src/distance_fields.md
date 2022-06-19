@@ -1,4 +1,0 @@
-# Distance Fields
----
-
-A distance field is a scalar field that specifies the minimum distance to the surface of a shape. If we examine this in more detail, a distance field can be represented by a function F, such that any given point p will return a distance d from the object represented by the function. We store the distances returned by such a function as 3D matrices or, more commonly known within graphics programming, a 3D texture. Each texture cell stands for the closest distance from the grid element to the nearest surface. Therefore, a grid element containing a value of 0 represents the surface of a shape. As mentioned in the introduction, a common type of distance field is the signed distance field (SDF), where the sign indicates whether we are outside (positive sign) or inside (negative sign).
