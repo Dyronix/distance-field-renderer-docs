@@ -8,7 +8,7 @@ Visualising a distance field can be achieved by using an algorithm called sphere
 </p>
 <p align="center">
     <i>
-    Figure 4: Abstract representation of the graphics pipeline
+    Figure 4: Sphere tracing visualised
     </i>
 </p>
 
