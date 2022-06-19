@@ -3,7 +3,6 @@
 - [Home](./front_page.md)
 - [Article](./article.md)
 
-
 # More Info
 
 - [Distance Fields](./distance_fields.md)   

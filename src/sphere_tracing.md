@@ -8,7 +8,7 @@ Visualising a distance field can be achieved by using an algorithm called sphere
 </p>
 <p align="center">
     <i>
-    Figure 4: Sphere tracing visualised
+    Figure 1: Sphere tracing visualised
     </i>
 </p>
 
@@ -45,7 +45,7 @@ Hart’s technique is based on the idea that we can identify the closest point B
 </p>
 <p align="center">
     <i>
-    Figure 9: Finding the nearest point on a surface. A circle is defined with a radius equal to the distance from the origin to the nearest point on the surface
+    Figure 2: Finding the nearest point on a surface. A circle is defined with a radius equal to the distance from the origin to the nearest point on the surface
     </i>
 </p>
 
@@ -58,8 +58,8 @@ Hart took use of this discovery and computed the nearest point on the object's s
 </p>
 <p align="center">
     <i>
-    Figure 10: We move along the ray direction by the radius of the circle.<br>
-    Figure 11: We repeat the process from Figure 9 and Figure 10 until we reach a minimum threshold
+    Figure 3: We move along the ray direction by the radius of the circle.<br>
+    Figure 4: We repeat the process from Figure 9 and Figure 10 until we reach a minimum threshold
     </i>
 </p>
 

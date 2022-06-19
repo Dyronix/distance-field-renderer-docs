@@ -9,7 +9,7 @@ One of the most fundamental actions is to combine two things, which is best expr
 </p>
 <p align="center">
     <i>
-    Figure 12: Union
+    Figure 1: Union
     </i>
 </p>
 
@@ -20,7 +20,7 @@ You may also subtract the volume of one form from another, which is best express
 </p>
 <p align="center">
     <i>
-    Figure 13: Subtraction
+    Figure 2: Subtraction
     </i>
 </p>
 
@@ -31,7 +31,7 @@ One last example could be calculating the surface resulting from the intersectio
 </p>
 <p align="center">
     <i>
-    Figure 14: Intersection
+    Figure 3: Intersection
     </i>
 </p>
 
