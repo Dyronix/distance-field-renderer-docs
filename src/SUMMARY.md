@@ -1,7 +1,6 @@
 # Summary
 
 - [Home](./front_page.md)
-- [Article](./article.md)
 
 # More Info
 
