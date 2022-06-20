@@ -290,8 +290,8 @@ Hello, my name is Dave and I'm a Software Engineer @ <a href="https://www.twikit
 </p>
 <br>
 <p align="center">
-  <img width="640" height="480" src="./assets/volume_environment.PNG">
-  <img width="640" height="480" src="./assets/volume_environment_lattified.png">
+  <img width="320" height="240" src="./assets/volume_environment.PNG">
+  <img width="320" height="240" src="./assets/volume_environment_lattified.png">
 </p>
 <p align="center">
     <i>
