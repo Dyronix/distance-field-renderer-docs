@@ -1,5 +1,6 @@
 [book]
-authors = []
+authors = ["Dave De Breuck"]
 language = "en"
 multilingual = false
 src = "src"
+title = "Rendering Complex Structures"
