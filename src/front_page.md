@@ -16,7 +16,7 @@
 </p>
 
 <p align="justify">
-Hello, my name is Dave and I'm a Software Engineer @ <a href="https://www.twikit.com">Twikit NV</a>. We create products for all types of industries ranging from automotice, medical, sportsware and even games. Are specialty is designing configurators so a customer can design its own set of 3D geometry to be able to print using any 3D printer currently available on the market. However, my role does not have anything to do with the configurator. Due to my background in games and graduating from <a href="Breda University of Applied Science">Digital Arts and Entertainment</a> as a Game Developer I am responsible for the graphics, so anything that is visible on screen I create. At the time of writing I am obtaining my master's degree in Game Technology at <a href="https://www.buas.nl/opleidingen/master-game-technology">Breda University of Applied Science</a>. Within this article I will try and elaborate how one can achieve the results of the findings of my master thesis.
+Hello, my name is Dave and I'm a Software Engineer @ <a href="https://www.twikit.com">Twikit NV</a>. We create products for all types of industries ranging from automotive, medical, sportsware and even games. Are specialty is designing configurators so a customer can design its own set of 3D geometry to be able to print using any 3D printer currently available on the market. However, my role does not have anything to do with the configurator. Due to my background in games and graduating from <a href="Breda University of Applied Science">Digital Arts and Entertainment</a> as a Game Developer I am responsible for the graphics, so anything that is visible on screen I create. At the time of writing I am obtaining my master's degree in Game Technology at <a href="https://www.buas.nl/opleidingen/master-game-technology">Breda University of Applied Science</a>. Within this article I will try and elaborate how one can achieve the results of the findings of my master thesis.
 </p>
 
 ---
@@ -272,7 +272,7 @@ Hello, my name is Dave and I'm a Software Engineer @ <a href="https://www.twikit
 </p>
 <br>
 <p align="justify">
-    We can use this G-Buffer to calculate any light information that is required in our scene and any additional image effects that might be required such as ambient occlusion.
+    We can use this G-Buffer to calculate any light information in our scene and any additional image effects that might be required such as ambient occlusion.
 </p>
 
 <br>
