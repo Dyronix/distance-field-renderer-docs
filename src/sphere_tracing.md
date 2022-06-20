@@ -82,3 +82,7 @@ Hart took use of this discovery and computed the nearest point on the object's s
 <p align="justify">
 According to Hart, when we can supply a distance function for a shape, we can build up a scene with implicit shapes. Due to the nature of the sphere tracing algorithm, we know we will not intersect any shape that is present within this scene. In terms of our lattice structures, which are made up of a tessellation of unit cells, we may create a scene of unit cells and provide a distance function to each one. Afterward, we may utilise sphere tracing to determine the surface of those unit cells to portray our lattice structure correctly.
 </p>
+
+<p align="justify" style="font-family:consolas; font-size:12px">
+  <i>Images are taken from <a href="https://www.scratchapixel.com">scratchapixel.com</a></i>
+</p>

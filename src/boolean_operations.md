@@ -44,3 +44,7 @@ One last example could be calculating the surface resulting from the intersectio
 <p align="justify">
 Note that these operations only have a valid distance representation outside the shape (positive values). Even though these operations work for visualisation, evaluations used by these operations will only return a lower bound to the actual distance of the resulting surface. However, this is not an issue for our use case, which is rendering implicit geometry, as we will never “march” within the object.
 </p>
+
+<p align="justify" style="font-family:consolas; font-size:12px">
+  <i>Images are taken from <a href="https://www.scratchapixel.com">scratchapixel.com</a></i>
+</p>
