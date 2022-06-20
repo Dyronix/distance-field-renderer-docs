@@ -205,11 +205,11 @@ Hello, my name is Dave and I'm a Software Engineer @ <a href="https://www.twikit
 
 <table>
  <tr>
- <td><img width="640" height="480" src="./assets/lattice_blob.jpg"></td>
- <td rowspan="2"><img width="640" height="480" src="./assets/lattified_monkey.jpg"></td>
+ <td><img width="373" height="279" src="./assets/lattice_blob.jpg"></td>
+ <td rowspan="2"><img width="373" height="279" src="./assets/lattified_monkey.jpg"></td>
  </tr>
  <tr>
- <td><img width="640" height="480" src="./assets/monkey_outershape.jpg"></td>
+ <td><img width="373" height="279" src="./assets/monkey_outershape.jpg"></td>
  </tr>
 </table>
 
