@@ -76,13 +76,13 @@ Hello, my name is Dave and I'm a Software Engineer @ <a href="https://www.twikit
 </p>
 <br>
 <p align="justify">
-    This equation is what is called an implicit function. A sphere represented in this form is also called an implicit shape. An implicit equation only tells us if a particular point is inside a shape (negative values), outside a shape (positive values), or precisely on the surface (value of 0). The collection of points where the implicit function equals x is called an iso-surface of value x (or iso-contour in 2 dimensions). Sphere tracing is a method of drawing a surface solely based on this data. For more information about sphere tracing, click [here](sphere_tracing.md)
+    This equation is what is called an implicit function. A sphere represented in this form is also called an implicit shape. An implicit equation only tells us if a particular point is inside a shape (negative values), outside a shape (positive values), or precisely on the surface (value of 0). The collection of points where the implicit function equals x is called an iso-surface of value x (or iso-contour in 2 dimensions). Sphere tracing is a method of drawing a surface solely based on this data. For more information about sphere tracing, click <a href="sphere_tracing.md">here</a>
 </p>
 
 ## Boolean Operations
 
 <p align="justify">
-    Volumetric data can easily represent shapes defined via Boolean operations. These operations are often used in CAD software in collaboration with a technique called Constructive Solid Geometry (CSG), which consists of the same operations only based on surface-data not on geometry, which makes this algorithm a lot more CPU intesive as new geometry has to be constructed on the fly. Modelling complex shapes by assembling simple shapes such as spheres, cubes, planes might be hard to achieve if we modelled our geometry by hand. Being able to blend implicit shapes is a quality that parametric surfaces lack and thus one of the main motivations for using them. For more information about Boolean operations, click [here](boolean_operations.md)
+    Volumetric data can easily represent shapes defined via Boolean operations. These operations are often used in CAD software in collaboration with a technique called Constructive Solid Geometry (<a href="https://en.wikipedia.org/wiki/Constructive_solid_geometry">CSG</a>), which consists of the same operations only based on surface-data not on geometry, which makes this algorithm a lot more CPU intesive as new geometry has to be constructed on the fly. Modelling complex shapes by assembling simple shapes such as spheres, cubes, planes might be hard to achieve if we modelled our geometry by hand. Being able to blend implicit shapes is a quality that parametric surfaces lack and thus one of the main motivations for using them. For more information about Boolean operations, click <a href="boolean_operations.md">here</a>
 </p>
 
 ## Deferred Shading
